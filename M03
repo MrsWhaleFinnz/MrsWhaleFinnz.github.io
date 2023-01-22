@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Understanding CSS - Thinking Inside the Box</title>
-		<style type="text/css">
-			body {
-				font-family: Helvetica, Arial, sans-serif;
-				color: #665544;
-				padding: 22px;}
-			h1, h2, p {
-				padding: 12px;
-				line-height: 2em;}
-			i, a, a:hover, a:visited {
-				color: #665544;}
-		</style>
+		<title>Module 03</title>
+	<link rel="Stylesheet" href="style.css" type="text/css" />
+	<link rel="Stylesheet" media="screen" href="https://fontlibrary.org/face/dancing" type="text/css />
 	</head>
 	<body>
 		<h1>The Cottage Garden</h1>
