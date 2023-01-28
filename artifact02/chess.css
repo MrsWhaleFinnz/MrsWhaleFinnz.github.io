@@ -80,6 +80,5 @@ bottom {
 img {
   margin-left: 5px;
   margin-top: 10px;
-  width: 200px;
-  height: 200px;
+  max-width: 90%
 }
