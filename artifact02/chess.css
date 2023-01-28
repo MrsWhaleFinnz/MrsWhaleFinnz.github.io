@@ -73,6 +73,8 @@ body {
 
 body {
   background-image:url("https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/artifact02/bg%20for%20chessboard.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
 bottom {
