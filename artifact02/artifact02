@@ -1,1 +1,148 @@
-
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="chess.css" />
+  </head>
+  <header>Chessboard</header>
+  
+  <body>
+    <div class="container">
+    <div class="row"> 
+      <div class="light"><img src=""></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+    </div>
+    </div>
+    
+    
+    <div id="clear"></div>
+    
+   <div class="container2">
+     
+    <div class="row2"> 
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+     
+    </div>
+    </div>
+    
+    <div id="clear"></div>
+    <div class="container">
+    <div class="row"> 
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+    </div>
+    </div>
+    <div id="clear"></div>
+    
+     <div class="container2">
+     
+    <div class="row2"> 
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+     
+    </div>
+    </div>
+      
+      <div id="clear"></div>
+    <div class="container">
+    <div class="row"> 
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+    </div>
+    </div>
+    <div id="clear"></div>
+    
+     <div class="container2">
+     
+    <div class="row2"> 
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+     
+    </div>
+    </div>
+     <div id="clear"></div>
+    
+      <div class="container">
+    <div class="row"> 
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+    </div>
+    </div>
+       <div id="clear"></div>
+    
+       <div class="container2">
+     
+    <div class="row2"> 
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+      <div class="darkness"></div>
+      <div class="light"></div>
+     
+    </div>
+    </div>
+    
+    
+    <br>
+    
+ 
+  
+  </body>
+  
+  <div class="bottom">
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  
+    <div id="footer">
+      You see that link below? It's for validating your W3.
+      <p><a href="https://validator.w3.org/nu/" target="_blank" alt="validator" width="30" height="50" >https://validator.w3.org/nu/</a></p>
+    </div>
+  </div>
+  
+  <br>
+</html>
