@@ -5,7 +5,8 @@
 			body {
 				width: 90%;
 				margin: 0 auto;
-background-image:url("https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/midterm/bg%20for%20midterm%20assignment.jpg");}
+                    background-image:url("https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/midterm/bg%20for%20midterm%20assignment.jpg");
+}
 			#content {
 				overflow: auto;}
 			#nav, #feature, #footer {
