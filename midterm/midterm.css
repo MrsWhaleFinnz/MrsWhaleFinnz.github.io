@@ -25,7 +25,7 @@ background-color: pink;
 				padding: 0.5em 0;}
 			
 #feature, .article {
-				height: 90em;
+				height: 40em;
 				margin-bottom: 1em;
 				background-color: #efefef;
   
@@ -62,7 +62,7 @@ img:hover {
   border-top: 20px solid pink;
   border-left: 20px solid pink;
   border-right: 20px solid pink;
-  width: 700px;
-  height: 500px;
+  width: 600px;
+  height: 400px;
   
 }
