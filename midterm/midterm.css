@@ -25,7 +25,7 @@ background-color: pink;
 				padding: 0.5em 0;}
 			
 #feature, .article {
-				height: 10em;
+				height: 90em;
 				margin-bottom: 1em;
 				background-color: #efefef;
   
@@ -53,7 +53,16 @@ border-radius: 30px;
  
 }
 
-intro {
-	font-size: 30px;
-	font-family: sans-serif;
+.img {
+  width: 30px;
+}
+
+img:hover {
+   border-bottom: 20px solid Pink;
+  border-top: 20px solid pink;
+  border-left: 20px solid pink;
+  border-right: 20px solid pink;
+  width: 700px;
+  height: 500px;
+  
 }
