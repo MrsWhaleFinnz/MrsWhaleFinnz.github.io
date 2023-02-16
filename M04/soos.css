@@ -1,6 +1,6 @@
 * {
 				font-family: Display, Verdana, sans-serif;
-				color: white;
+				
 				text-align: center;}
 			body {
 				width: 90%;
@@ -54,6 +54,7 @@
 
 body {
   background-image: url(https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/M04/bg%20for%20m04.jpeg);
-	background-size:contain;
-background-repeat:no-repeat;
+background-size: cover;
+background-repeat: repeat;
+ background-position: center;
 }
