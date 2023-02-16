@@ -44,6 +44,7 @@ button {
 
 button:hover {
   background-color: pink;
+
 border-radius: 30px;
   font-size: 170%;
   font-style: italic;
