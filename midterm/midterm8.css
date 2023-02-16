@@ -44,12 +44,8 @@ button {
 
 button:hover {
   background-color: pink;
-  border-bottom: 20px solid Pink;
-  border-top: 20px solid pink;
-  border-left: 20px solid pink;
-  border-right: 20px solid pink;
 border-radius: 30px;
-  font-size: 30px;
+  font-size: 170%;
   font-style: italic;
   font-family: Tahoma;
  
