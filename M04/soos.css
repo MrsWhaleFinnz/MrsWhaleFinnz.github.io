@@ -53,5 +53,7 @@
 }
 
 body {
-  background-image: url() 
+  background-image: url(https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/M04/bg%20for%20m04.jpeg);
+	background-size:contain;
+background-repeat:no-repeat;
 }
