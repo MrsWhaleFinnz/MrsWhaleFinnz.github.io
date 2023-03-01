@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  
+}
+
+h1,  p, input {
+  font-family: sans-serif;
+}
+
+img {
+  width: 450px;
+  height: 500px;
+}
