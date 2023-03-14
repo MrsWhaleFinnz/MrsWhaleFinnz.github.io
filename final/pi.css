@@ -1,0 +1,70 @@
+* {
+				font-family: sans-serif;
+				color: Black;
+				text-align: center;}
+			body {
+				width: 90%;
+				margin: 0 auto;
+                    background-image:url("https://raw.githubusercontent.com/MrsWhaleFinnz/MrsWhaleFinnz.github.io/main/midterm/bg%20for%20midterm%20assignment.jpg");
+}
+			#content {
+				overflow: auto;}
+			#nav, #feature, #footer {
+				margin: 2%;
+background-color: pink; 
+}
+			.column1, .column2, .column3 {
+				width: 31.3%;
+				float: left;
+				margin: 1%;}
+			.column3 {
+				margin-right: 0%;}
+			li {
+				display: inline;
+				padding: 0.5em;}
+			#nav, #footer {
+				background-color: #efefef;
+				padding: 0.5em 0;}
+			
+#feature, .article {
+				height: 210em;
+				margin-bottom: 1em;
+				background-color: #efefef;
+  
+}
+div {
+  background-color: Pink;
+}
+
+button {
+    font-size: 180%;
+  text-shadow: 2px 1px 1px gray;
+  
+}
+
+button:hover {
+  background-color: pink;
+border-radius: 30px;
+  font-size: 170%;
+  font-style: italic;
+  font-family: Tahoma;
+ 
+}
+
+.img {
+  width: 30px;
+
+}
+
+.pclass2 {
+  font-size: 20px;
+}
+
+.blue {
+  font-color: blue;
+}
+
+h1 {
+  margin: 20px;
+  padding: 5px;
+}
